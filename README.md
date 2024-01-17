@@ -1,6 +1,6 @@
 # Project Overview
-Here you will write a short description of your project.
-In thi project we aim to create a webpage portfolio for CodeSpace Cat, using a reference from CodeSpace.
+
+In this project we aim to create a webpage portfolio for CodeSpace Cat, using a reference from CodeSpace.
 
 # Presentation
 
